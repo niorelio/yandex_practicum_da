@@ -10,7 +10,8 @@
 Данные получены и выгружены в файл dash_visits.csv.
 
 ## Ссылка на презентацию
+[PDF](https://github.com/niorelio/yandex_practicum_da/blob/main/10.%20Dashboard%20Yandex.Zen/presentation%20Yandex.Zen.pdf)
 
 
 ## Ссылка на дашборд
-
+[Tableau](https://public.tableau.com/app/profile/hah1045/viz/shared/KHHNF6SPN)
